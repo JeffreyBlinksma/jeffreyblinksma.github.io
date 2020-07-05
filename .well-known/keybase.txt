@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/jeffreyblinksma
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jeffrey.blinksma.eu
+  * I am jeffreyblinksma (https://keybase.io/jeffreyblinksma) on keybase.
+  * I have a public key with fingerprint 85D0 058B A205 4DFE 5613  9C8B 36FB 746A 4DE3 260F
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d4ef171fd8653c6917c1746b93a4dece38feab72f3197858a65275655adc8e110a",
+      "fingerprint": "85d0058ba2054dfe56139c8b36fb746a4de3260f",
+      "host": "keybase.io",
+      "key_id": "36fb746a4de3260f",
+      "kid": "01010e3cd6171c885122c68dc14769784caf1c332159c9c93de756c331a60e4c499f0a",
+      "uid": "ce1cde2e3c36536970a3dd55496be719",
+      "username": "jeffreyblinksma"
+    },
+    "service": {
+      "hostname": "jeffrey.blinksma.eu",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1593984783,
+  "expire_in": 157680000,
+  "prev": "1aa755695dec5ae5d7fec4241856daf191225433a1b427974e13193993c67492",
+  "seqno": 58,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNyAnicbZJrTBxVGIaXmyBUoS5aCwmXIUKbULJzOXNZ8FIbW1pE2pQaaIVlLmdg
+uMwuuwuIgDeEtgZoWkEMgV1CCy2QGMpyLaYKVttGSQELhiaKBOtiBaUlEFFrPEPk
+h4lzfkzOmfd75v3e8117zEvn70H/ac9NXogO9PhqtKNIZ/I8EFiGCWapFDOWYXlw
+8wXzJWizm/IUCTNiBpwwSBSUcQaXJZYGpEhzOCPiDEULHMlTEhQhycqQFxhCJnGO
+YQHL04BgAA0AL4ksxHEDj8VisqJmQ6vFqqh2hGWBZDAAVuAJA6AkGQIaJzmRFUha
+FhBa45IEbZBRYY7ZplUgcwJvg3GKGZ2hjWnT3v/ot3yjBUlRopFzkWUBThAizUoi
+TjE0ckmJvIyLJEnggBPRIiWILKMDnKcNkBIpjpM3fRdt4kSIixIkEJBEGSCAgScl
+CQCKowXI4JwmtEGryhdApM6FsmxFfvMVNc9WwGMVsRj6WKyIUMtXa+i/wrgtZRws
+QiSL1Ww3i+Z8JMix2y02owawl1q0ihIomP5lmQRFlVCqqKIYWm2KWcWMOFKKdkWD
+o8ZIjqUYlozF4OsWxQpNiqYADM0a0KP9BxYjJM7zDAA0B9BdAh4CiZGhSBEUzgJa
+QilxKDpAkSSPCxTBcAwFcXTRJMehWWAojsC07gpVM2YELPLJZyOmTclWeXuRFWIV
+Y6Ovees8/HWP+Hhq46bzfzRoawjX8gL/jtz+1uq560HT7mDFpZ4f8P1pwsU2tFzq
+fdHv3JVl50pE6OBCvt8eLqzVO/nILUdr5+zcD4PDcn/GrP/GZx8HPhxq2unnvNmd
+rzy/PKtnMsejDgZsTI0Ue/12wzfOc1dNWbhjevpw7xeXU+cXDjynth+7m6brvDiV
++lHXUlPWG9zj5+tcTxUnTtz6JODHqrqnx+/352XEMFe6zsTMLQ84fNwRN2ZcK9Wm
++Ii14Sep2ynpX1tnynec7S9vKVx68DI90TDAvjDc9E39oPrM8Z7d4oq33Ab3qeOW
+NcvbtU5qdV0ouapPFD373HtP+9HZpbsWHemVdSfujAzcq2pZbEy9f5tanl2vjM7q
+inj2UMpY8MjamyM9RUeih+ofVMleet5y6tCFBKyd3d4eu1gQeXw1oO9SjnPbr3pP
+90RCd8nV96iBjTRrX+23fk0eRwn9z2lR07aOkIIkKj14LXK9NjPsy+r6JDvZNmL8
+tNbR1R+54/vPdyblTg6P3vwuM95ZPVsy9q5jadue1uv1ZeF291xYQlDNyctnjwku
+V+DekKHk2DtjDUvC+4e7r+1P9Bl9J+OJ+OaTo50zMWOTZ8bH3T0nCn75i57P6n1I
+Ka96KUtlHb9PNb7UuK9cbr4QPvmBb9SpGpAV0nfa1BxaOWcAvhXz+tTdrzCD4aEp
+jnsHP2z5Y7jwaNvF6ruZ/wCVOsbw
+=R/3l
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jeffreyblinksma
+
+==================================================================
